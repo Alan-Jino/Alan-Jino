@@ -1,6 +1,6 @@
 # Hi there 👋  I am AlanJino...
 
-## Self taught Go developer.
+## DevOps Engineer.
 
 ![image](https://media.istockphoto.com/id/1303169188/photo/devops-concept.jpg?s=612x612&w=0&k=20&c=RzgMNp4TqIzpjZddZ4Lqyun9uXg5P1uF586BBIy1Fu8=)
 
