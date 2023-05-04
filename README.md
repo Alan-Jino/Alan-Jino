@@ -17,3 +17,5 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+![image]({https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white})
