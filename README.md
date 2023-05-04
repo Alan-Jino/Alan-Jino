@@ -12,9 +12,10 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
   
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=Helm&labelColor=0F1689" /> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> 
 
-Stats card
+## Stats 
 
 [![AlanJino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Jino)](https://github.com/Alan-Jino/github-readme-stats)
-Language sats card
+
+## Language
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-Jino)](https://github.com/Alan-Jino/Alan-Jino/edit/main/README.md)
