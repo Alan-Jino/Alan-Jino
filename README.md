@@ -15,6 +15,7 @@ A passionate learner ready to tackle all the challenges of the constantly evolvi
 ## Stats 
 
 [![AlanJino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Jino)](https://github.com/Alan-Jino/github-readme-stats)
+![Alanjino's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alan-Jino&show_icons=true&theme=radical)
 
 ## Language
 
